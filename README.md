@@ -7,6 +7,7 @@ Para ejecutarlo
 $ ./main < input.txt
 Donde input tiene
 
+INICIO ARCHIVO
 #Vertices #Aristas
 Vertice1 Vertice2 PesoArista
 Vertice1 Vertice2 PesoArista
@@ -15,3 +16,5 @@ Vertice1 Vertice2 PesoArista
 .
 #Consultas
 Vertice1 Vertice2
+
+FIN ARCHIVO
